@@ -1,0 +1,17 @@
+HTTP/1.1 404 
+Date: Sun, 04 Jan 2026 23:27:41 GMT
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'unsafe-inline';img-src * data: blob:;style-src 'self' 'unsafe-inline';script-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.cookielaw.org;style-src-elem 'self' 'unsafe-inline';script-src-elem 'self' 'unsafe-inline' cdn.cookielaw.org;frame-src 'self';font-src * data:;connect-src *
+Content-Length: 0
+Connection: close
+Set-Cookie: ppnet_6026=!KNfzUEHkLG4L5T95HjnWrR+Hha/esR+wnqhNiQH3mhhmWeEJFd1astU3EsDQRMhKy1yGrXoOYuweYA==; path=/; Httponly; Secure
+

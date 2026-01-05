@@ -1,0 +1,17 @@
+{
+    "operation": "KAORU-ZERO",
+    "timestamp": 1767568611.8228817,
+    "target_node": "6026",
+    "opened_port": null,
+    "discovered_endpoints": [],
+    "extraction_summary": {
+        "total_vaults": 0,
+        "vault_paths": []
+    },
+    "next_steps": [
+        "Analizar datos extra\u00eddos en busca de master tokens",
+        "Usar puerto abierto para acceso persistente",
+        "Escalar a otros nodos del cl\u00faster",
+        "Extraer fragmentos de datos distribuidos"
+    ]
+}

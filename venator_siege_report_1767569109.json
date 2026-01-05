@@ -1,0 +1,30 @@
+{
+    "timestamp": 1767569109.1755571,
+    "target_domain": "jpmorgan.com",
+    "discovered_subdomains": [
+        {
+            "subdomain": "api.jpmorgan.com",
+            "ip": "146.143.134.7",
+            "status": "ACTIVE"
+        }
+    ],
+    "active_endpoints": [],
+    "critical_files": [
+        {
+            "url": "https://api.jpmorgan.com/.env.old",
+            "status": 403,
+            "info": "Acceso denegado"
+        },
+        {
+            "url": "https://api.jpmorgan.com/.env.save",
+            "status": 403,
+            "info": "Acceso denegado"
+        }
+    ],
+    "summary": {
+        "total_subdomains": 1,
+        "total_endpoints": 0,
+        "total_secrets": 0,
+        "critical_vulnerabilities": 0
+    }
+}
